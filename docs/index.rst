@@ -1,4 +1,4 @@
-How to Login to Peacock TV: A Step-by-Step Guide     
+How Does Acorn Support Work? Your Complete Guide    
 ============================================
  
 .. toctree::
