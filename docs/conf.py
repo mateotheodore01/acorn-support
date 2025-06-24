@@ -1,5 +1,5 @@
-project = '-'
-author = 'Your Name'
+project = 'acorn support'
+author = 'Denial'
 release = '1.0'
  
 extensions = []
@@ -12,4 +12,4 @@ html_static_path = ['_static']
 html_js_files = [
     'chatbot.js',
 ]
-html_favicon = '_static/viast.favicon.jpg'
+html_favicon = '_static/acorn-favicon.jpg'
