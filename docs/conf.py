@@ -1,4 +1,4 @@
-project = 'acorn support'
+project = 'Acorn Support'
 author = 'Denial'
 release = '1.0'
  
