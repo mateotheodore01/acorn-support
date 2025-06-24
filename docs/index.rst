@@ -1,4 +1,4 @@
-How Does Acorn Support Work? Your Complete Guide    
+How To Reach Acorn Support? Your Complete Guide    
 ============================================
  
 .. toctree::
@@ -10,7 +10,7 @@ How Does Acorn Support Work? Your Complete Guide
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://acorn.support/
+   :target: https://getchatsupport.live/
 
 Acorn Support is a valuable service designed to help people navigate the complex world of financial assistance and benefits. Whether you're struggling with bills, unsure about your eligibility for certain programs, or just need guidance on managing your finances better, Acorn Support provides practical, personalized help to improve your situation.
 
